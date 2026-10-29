@@ -1,0 +1,9 @@
+{
+  "id": "EXAMPLE-ID-00074",
+  "type": "text",
+  "flag": 1,
+  "attribute": 0,
+  "name": "Example",
+  "is_default_name": false,
+  "segments": []
+}

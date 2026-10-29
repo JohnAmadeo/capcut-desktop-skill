@@ -1,0 +1,6 @@
+{
+  "app_version": "8.9.0",
+  "draft_version": 360000,
+  "new_version": "175.0.0",
+  "status": "Sanitized working examples; clone fields and replace IDs/references intentionally. Not a standalone complete project."
+}

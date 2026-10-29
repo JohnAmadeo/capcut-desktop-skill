@@ -1,0 +1,241 @@
+{
+  "id": "EXAMPLE-ID-00046",
+  "material_id": "",
+  "property_type": "KFTypePositionX",
+  "keyframe_list": [
+    {
+      "id": "EXAMPLE-ID-00047",
+      "curveType": "Line",
+      "time_offset": 0,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00048",
+      "curveType": "Line",
+      "time_offset": 16000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00049",
+      "curveType": "Line",
+      "time_offset": 32000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00050",
+      "curveType": "Line",
+      "time_offset": 48000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00051",
+      "curveType": "Line",
+      "time_offset": 64000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00052",
+      "curveType": "Line",
+      "time_offset": 80000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00053",
+      "curveType": "Line",
+      "time_offset": 96000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00054",
+      "curveType": "Line",
+      "time_offset": 112000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00055",
+      "curveType": "Line",
+      "time_offset": 128000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00056",
+      "curveType": "Line",
+      "time_offset": 144000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00057",
+      "curveType": "Line",
+      "time_offset": 160000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00058",
+      "curveType": "Line",
+      "time_offset": 176000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00059",
+      "curveType": "Line",
+      "time_offset": 180000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        -0.6481481481481481
+      ],
+      "string_value": "",
+      "graphID": ""
+    }
+  ]
+}

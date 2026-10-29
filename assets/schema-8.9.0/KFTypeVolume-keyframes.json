@@ -1,0 +1,79 @@
+{
+  "id": "EXAMPLE-ID-00078",
+  "material_id": "",
+  "property_type": "KFTypeVolume",
+  "keyframe_list": [
+    {
+      "id": "EXAMPLE-ID-00079",
+      "curveType": "Line",
+      "time_offset": 0,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        0.0
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00080",
+      "curveType": "Line",
+      "time_offset": 100000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        0.12099232762718758
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00081",
+      "curveType": "Line",
+      "time_offset": 3500000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        0.12099232762718758
+      ],
+      "string_value": "",
+      "graphID": ""
+    },
+    {
+      "id": "EXAMPLE-ID-00082",
+      "curveType": "Line",
+      "time_offset": 3600000,
+      "left_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "right_control": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "values": [
+        0.0
+      ],
+      "string_value": "",
+      "graphID": ""
+    }
+  ]
+}

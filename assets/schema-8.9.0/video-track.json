@@ -1,0 +1,9 @@
+{
+  "id": "EXAMPLE-ID-00010",
+  "type": "video",
+  "flag": 0,
+  "attribute": 0,
+  "name": "Example",
+  "is_default_name": false,
+  "segments": []
+}

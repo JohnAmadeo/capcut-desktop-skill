@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapCut Desktop"
+  short_description: "Programmatic local CapCut timelines and verification"
+  default_prompt: "Use $capcut-desktop to inspect, create, or edit a local CapCut Desktop project."
